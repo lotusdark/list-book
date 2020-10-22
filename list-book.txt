@@ -1,6 +1,6 @@
 Daftar Buku untuk dibaca
-- Python 
 - Python OOP
 - Django Framework
 - Django dan MongoDB
 - Django dan PostgreSQL
+- Python GUI
