@@ -1,2 +1,2 @@
 # list-book
-Lkist Book untuk dibaca
+List Book untuk dibaca
